@@ -1,0 +1,116 @@
+.sp{
+	  background: #1DB954;
+	  border: #1DB954;
+	}
+	.sp:hover{
+	  background: #158c3e;
+	  border: #158c3e;
+	}
+	.am{
+	  font-family: -apple-system;
+	  background: #FF3251;
+	  border: #FF3251;
+	  letter-spacing: -1px;
+	}
+	.am:hover{
+	  background: #cc263f;
+	  border: #CC263F;
+	}
+	.fb{
+	  background: #1877F2;
+	  border: #1877F2;
+	}
+	.fb:hover{
+	  background: #1363cc;
+	  border: #1363cc;
+	}
+	.ig{
+	  background: #BF00A3;
+	  border: #F40005;
+	}
+	.ig:hover{
+	  background: #7f006c;
+	  border: #7f0002;
+	}
+	.yt{
+	  background: #FF0000;
+	  border: #FF0000;
+	}
+	.yt:hover{
+	  background: #cc0000;
+	  border: #CC0000;
+	}
+	.tw{
+	  background: #1B9DF0;
+	  border: #1B9DF0;
+	}
+	.tw:hover{
+	  background: #157cbc;
+	  border: #157CBC;
+	}
+	.tk{
+	  background: black;
+	  border: black;
+	}
+	.tk:hover{
+	  background: #242424;
+	  border: #242424;
+	}
+	.dc{
+		background: #5865F2;
+		border: #5865F2;
+	}
+	.dc:hover{
+		background: #4150f0;
+		border: #4150f0;
+	}
+	.sch{
+		background: #FFFC00;
+		border: #FFFC00;
+		color: black;
+	}
+	.sch:hover{
+		background: #ccc800;
+		border: #ccc800;
+		color: black;
+	}
+	.tm{
+		background: #0088cc;
+		border: #0088cc;
+	}
+	.tm:hover{
+		background: #006699;
+		border: #006599;
+	}
+	.tch{
+		background: #9146FF;
+		border: #9146FF;
+	}
+	.tch:hover{
+		background: #8433ff;
+		border: #8433ff;
+	}
+	.sc{
+		background: #FF5500;
+		border: #FF5500;
+	}
+	.sc:hover{
+		background: #cc4400;
+		border: #cc4400;
+	}
+	.bc{
+		background: #477987;
+		border: #477987;
+	}
+	.bc:hover{
+		background: #345a64;
+		border: #345a64;
+	}
+	.mc{
+	  background: #5000FF;
+	  border: #5000FF;
+	}
+	.mc:hover{
+	  background: #4000cc;
+	  border: #4000cc;  
+	}

@@ -1,0 +1,19 @@
+/*
+ * Base structure
+ */
+
+body {
+  font-family: sans-serif;
+  letter-spacing: -1px;
+  background: grey;
+}
+
+.btn{
+  font-family: sans-serif;
+  font-variant: normal;
+}
+
+}
+.footer{
+  padding-bottom: env(safe-area-inset-bottom);
+}
