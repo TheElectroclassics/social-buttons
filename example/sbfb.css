@@ -114,3 +114,11 @@
 	  background: #4000cc;
 	  border: #4000cc;  
 	}
+	.pt{
+		background: #FF424D;
+		border: #FF424D;
+	}
+	.pt:hover{
+		background: #e53b43;
+		border: #e53b43;
+	}
