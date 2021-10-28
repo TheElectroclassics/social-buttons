@@ -122,3 +122,11 @@
 		background: #e53b43;
 		border: #e53b43;
 	}
+	.pc{
+		background: #BE4BDB;
+		border: #BE4BDB;
+	}
+	.pc:hover{
+		background: #a843c1;
+		border: #a843c1;
+	}
