@@ -114,6 +114,14 @@
 	  background: #4000cc;
 	  border: #4000cc;  
 	}
+	.mt{
+	  background: #6364FF;
+	  border: #563ACC;
+	}
+	.mt:hover{
+	  background: #2F0C7A;
+	  border: #17063B;  
+	}
 	.pt{
 		background: #FF424D;
 		border: #FF424D;
