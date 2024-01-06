@@ -138,3 +138,11 @@
 		background: #a843c1;
 		border: #a843c1;
 	}
+	.wa{
+		background: #25d366;
+		border: #25d366;
+	}
+	.wa:hover{
+		background: #103928;
+		border: #103928;
+	}
