@@ -146,3 +146,12 @@
 		background: #103928;
 		border: #103928;
 	}
+	
+	.bs{
+		background: #58b8ff;
+		border: #0a7aff;
+	}
+	.bs:hover{
+		background: #0a7aff;
+		border: #58b8ff;
+	}
