@@ -1,4 +1,5 @@
 ## Social Buttons for Bootstrap.
+[![](https://data.jsdelivr.com/v1/package/npm/socialbuttonsforbootstrap/badge?style=rounded)](https://www.jsdelivr.com/package/npm/socialbuttonsforbootstrap)
 
 Have you ever been in a rush to create a webpage with Bootstrap and add colorful social buttons?
 Well, I have, and it was a pain to customize each and every color on each and every css.
